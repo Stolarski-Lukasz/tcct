@@ -1,0 +1,25 @@
+body {
+  background-image: url("../img/background.png") !important;
+}
+
+.my_logo {
+  padding-bottom: 0px;
+  padding-top: 0px;
+  background-image: url("../img/background.png"), url("../img/mix_dark_minus100.png") !important;
+  background-blend-mode: overlay;
+}
+}
+
+.my_col {
+  border: 2px solid red;
+}
+
+
+#results_label {
+  padding-right: 20px;
+  visibility: hidden;
+}
+
+#the_spinner {
+  visibility: hidden;
+}
